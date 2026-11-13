@@ -4,7 +4,8 @@ A modern, responsive developer portfolio website showcasing my technical skills,
 
 ## Live Demo
 
-Coming soon.
+Visit my live portfolio:
+https://bawumia23.github.io/developer-portfolio/
 
 ## Features
 
