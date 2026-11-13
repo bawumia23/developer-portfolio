@@ -7,6 +7,16 @@ A modern, responsive developer portfolio website showcasing my technical skills,
 Visit my live portfolio:
 https://bawumia23.github.io/developer-portfolio/
 
+## Portfolio Preview
+
+### Desktop View
+
+![Portfolio Desktop](assets/images/portfolio-desktop.png)
+
+### Mobile View
+
+![Portfolio Mobile](assets/images/portfolio-mobile.png)
+
 ## Features
 
 - Responsive, mobile-first design
