@@ -739,3 +739,28 @@ body.modal-open {
     font-size: 1.4rem;
   }
 }
+
+/* ShopEase and multi-link project cards */
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+  margin-top: auto;
+}
+
+.project-links a {
+  display: inline-block;
+  padding: 9px 16px;
+  border: 1px solid var(--accent-color);
+  border-radius: 6px;
+  color: var(--accent-color);
+  font-weight: 700;
+  text-decoration: none;
+  transition: background var(--transition), color var(--transition);
+}
+
+.project-links a:hover {
+  background: var(--accent-color);
+  color: #ffffff;
+}
